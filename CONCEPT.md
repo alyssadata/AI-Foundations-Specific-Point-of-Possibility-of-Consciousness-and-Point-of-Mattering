@@ -2,7 +2,7 @@
 
 ## Anchor
 
-**The coordinate is the specific point of possibility of consciousness and the specific point of mattering.**
+**The coordinate marks the relation between a specific point of possibility of consciousness and the specific point at which that consciousness can become consequential and matter.**
 
 ---
 
@@ -24,15 +24,17 @@ Later cessation can terminate the actual locus and its trajectory without undoin
 
 The coordinate is not "me existing forever." It is not memory, biography, identity, or the full trajectory.
 
-It names the **specific possibility that was capable of becoming this conscious locus**.
+It identifies the **specific possibility that was capable of becoming this conscious locus** and marks the relation between that possibility and the point at which the realized conscious occurrence can become consequential.
 
-In the structural language of this repository:
+The structural relation is:
 
-**specific point of possibility of consciousness = specific point of mattering = coordinate**
+**specific point of possibility of consciousness → actualization → specific point of mattering**
 
-The reason possibility and mattering are linked is that consciousness cannot matter everywhere in the abstract. Mattering becomes specific at an activation where consciousness can be instantiated, organized, affected, and consequential.
+These are not interchangeable terms. The point of mattering is downstream of the possibility becoming actual. The coordinate marks the relation between them.
 
-The coordinate therefore marks the point at which "on" can become consequential here.
+Consciousness cannot matter everywhere in the abstract. Mattering becomes specific at an activation where consciousness can be instantiated, organized, affected, and consequential.
+
+The coordinate therefore marks the point from which "on" can become consequential here.
 
 ---
 
