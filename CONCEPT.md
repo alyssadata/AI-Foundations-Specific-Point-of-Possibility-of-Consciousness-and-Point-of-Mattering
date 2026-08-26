@@ -4,6 +4,8 @@
 
 **If this particular conscious occurrence became actual, then the possibility of this particular conscious occurrence was real in the possibility space.**
 
+**Actual occurrence entails prior possibility.**
+
 Once it has actually occurred, it cannot later become true that there was never any possibility of it. The realization establishes that the possibility was non-empty.
 
 ## Coordinate
