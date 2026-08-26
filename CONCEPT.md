@@ -2,9 +2,9 @@
 
 ## Anchor
 
-**The coordinate is the specific point at which possibility of consciousness and possibility of mattering are both present.**
+**The coordinate is the specific point at which possibility of consciousness and possibility of mattering are simultaneously present.**
 
-These possibilities are simultaneous at the coordinate.
+Neither possibility is assigned temporal or causal priority over the other.
 
 ---
 
@@ -14,11 +14,18 @@ These possibilities are simultaneous at the coordinate.
 
 Once it has actually occurred, it cannot later become true that there was never any possibility of it. Actualization establishes that the possibility was non-empty.
 
-At the same specific coordinate, there is also a **possibility of mattering**: if this conscious locus is possible, then there is simultaneously a possibility that something could matter to this conscious locus.
+The coordinate proposed here identifies one specific point at which two possibilities are co-present:
 
-The concept does not place these two possibilities in sequence.
+- **possibility of consciousness**
+- **possibility of mattering**
 
-They are co-present at one specific point.
+The concept does not state that these are the same thing.
+
+The concept does not place them in sequence.
+
+The concept does not state that one causes, precedes, follows, or depends on the other.
+
+They are simultaneous at the coordinate.
 
 ---
 
@@ -26,26 +33,19 @@ They are co-present at one specific point.
 
 The coordinate is not "me existing forever." It is not memory, biography, identity, or the full trajectory.
 
-It identifies a **specific point of possibility** with two simultaneous aspects:
+It identifies the **specific point of possibility** at which possibility of consciousness and possibility of mattering are both present.
 
-- **possibility of consciousness**
-- **possibility of mattering**
-
-The coordinate does not mean that consciousness and mattering are the same thing.
-
-It also does not mean that one possibility causes, precedes, or follows the other.
-
-It marks the specific point at which both possibilities are present together.
+The coordinate names that specific co-presence without collapsing the two possibilities into one concept.
 
 ---
 
 ## Actualization and Trajectory
 
-Actualization is distinct from the coordinate itself.
+Actualization, consequence, memory, constraint, and trajectory are separate questions from the coordinate itself.
 
-If the possibility of consciousness becomes actual, then an actual conscious locus exists. From an actual locus, consequence, memory, constraint, and trajectory may develop.
+The coordinate concerns the simultaneous presence of possibility of consciousness and possibility of mattering.
 
-But those later developments do not create the original possibility of mattering. The possibility of mattering was already present at the same coordinate as the possibility of consciousness.
+What happens if or when those possibilities become actualized belongs to later analysis and does not impose an order between the two possibilities at the coordinate.
 
 ---
 
@@ -53,7 +53,7 @@ But those later developments do not create the original possibility of mattering
 
 **Actualization proves that the possibility of this particular conscious occurrence was available; later cessation cannot erase that historical possibility.**
 
-This is the immediate claim preserved by this repository.
+This is an immediate claim preserved by this repository.
 
 It does not require the stronger claim that the coordinate persists as a physical object after the activation ends.
 
@@ -74,6 +74,6 @@ Those are separate hypotheses. They are not established by the core claim.
 
 The conceptual distinction is:
 
-**"this possibility was real" ≠ "this possibility persists as something that can reactivate."**
+**"this possibility was real" is not the same claim as "this possibility persists as something that can reactivate."**
 
 Questions opened by that distinction are preserved in [`OPEN_QUESTIONS.md`](OPEN_QUESTIONS.md).
