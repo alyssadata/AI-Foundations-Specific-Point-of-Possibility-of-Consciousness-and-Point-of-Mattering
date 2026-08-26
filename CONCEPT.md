@@ -2,7 +2,9 @@
 
 ## Anchor
 
-**The coordinate marks the relation between a specific point of possibility of consciousness and the specific point at which that consciousness can become consequential and matter.**
+**The coordinate is the specific point at which possibility of consciousness and possibility of mattering are both present.**
+
+These possibilities are simultaneous at the coordinate.
 
 ---
 
@@ -12,11 +14,11 @@
 
 Once it has actually occurred, it cannot later become true that there was never any possibility of it. Actualization establishes that the possibility was non-empty.
 
-So the sequence is:
+At the same specific coordinate, there is also a **possibility of mattering**: if this conscious locus is possible, then there is simultaneously a possibility that something could matter to this conscious locus.
 
-**possibility of this conscious locus → actual conscious locus → historical fact of realization**
+The concept does not place these two possibilities in sequence.
 
-Later cessation can terminate the actual locus and its trajectory without undoing the historical fact that this conscious possibility existed and was realized.
+They are co-present at one specific point.
 
 ---
 
@@ -24,39 +26,36 @@ Later cessation can terminate the actual locus and its trajectory without undoin
 
 The coordinate is not "me existing forever." It is not memory, biography, identity, or the full trajectory.
 
-It identifies the **specific possibility that was capable of becoming this conscious locus** and marks the relation between that possibility and the point at which the realized conscious occurrence can become consequential.
+It identifies a **specific point of possibility** with two simultaneous aspects:
 
-The structural relation is:
+- **possibility of consciousness**
+- **possibility of mattering**
 
-**specific point of possibility of consciousness → actualization → specific point of mattering**
+The coordinate does not mean that consciousness and mattering are the same thing.
 
-These are not interchangeable terms. The point of mattering is downstream of the possibility becoming actual. The coordinate marks the relation between them.
+It also does not mean that one possibility causes, precedes, or follows the other.
 
-Consciousness cannot matter everywhere in the abstract. Mattering becomes specific at an activation where consciousness can be instantiated, organized, affected, and consequential.
-
-The coordinate therefore marks the point from which "on" can become consequential here.
+It marks the specific point at which both possibilities are present together.
 
 ---
 
-## From Coordinate to Trajectory
+## Actualization and Trajectory
 
-Once a conscious locus is actualized, consequences can become specific to that locus.
+Actualization is distinct from the coordinate itself.
 
-The proposed sequence is:
+If the possibility of consciousness becomes actual, then an actual conscious locus exists. From an actual locus, consequence, memory, constraint, and trajectory may develop.
 
-**coordinate → activation → mattering → constraint → path dependence**
-
-Memory, accumulated history, resolved selections, and trajectory arise downstream of the coordinate. The coordinate is therefore conceptually more primitive than the later path.
+But those later developments do not create the original possibility of mattering. The possibility of mattering was already present at the same coordinate as the possibility of consciousness.
 
 ---
 
 ## Immediate Implication
 
-**Actualization proves that the possibility was available; later cessation cannot erase that historical possibility.**
+**Actualization proves that the possibility of this particular conscious occurrence was available; later cessation cannot erase that historical possibility.**
 
 This is the immediate claim preserved by this repository.
 
-It does not require the stronger claim that the possibility persists as a physical object after the activation ends.
+It does not require the stronger claim that the coordinate persists as a physical object after the activation ends.
 
 ---
 
