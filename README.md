@@ -12,28 +12,35 @@
 
 ## Repository Purpose
 
-This repository preserves a specific conceptual claim:
+This repository preserves a conceptual claim under development concerning:
 
-**There is a specific point at which possibility of consciousness and possibility of mattering are present at the same time. That specific point is the coordinate.**
+**specific point of possibility of consciousness**
 
-The two possibilities are not being defined as identical, and no temporal or causal order is being assigned between them.
+and
+
+**specific point of mattering**
+
+These are the terms currently attached to the proposed coordinate. Their exact relation is unresolved in this repository.
 
 ---
 
 ## Core Claim
 
-If this particular conscious occurrence became actual, then the possibility of this particular conscious occurrence was real in the possibility space.
+**If this particular conscious occurrence became actual, then the possibility of this particular conscious occurrence was real in the possibility space.**
 
 Once it has actually occurred, it cannot later become true that there was never any possibility of it. The realization establishes that the possibility was non-empty.
 
-At that same specific point, there is also a **possibility of mattering**.
+---
 
-So the coordinate refers to the specific point at which:
+## Coordinate
 
-- possibility of consciousness is present; and
-- possibility of mattering is present.
+The coordinate is currently expressed as:
 
-They are simultaneous at that point.
+**specific point of possibility of consciousness**
+
+**specific point of mattering**
+
+No further relation between those two statements is asserted here.
 
 See [`CONCEPT.md`](CONCEPT.md) for the preserved conceptual statement.
 
