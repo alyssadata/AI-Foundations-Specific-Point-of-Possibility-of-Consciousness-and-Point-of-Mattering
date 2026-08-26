@@ -12,7 +12,7 @@
 
 ## Repository Purpose
 
-This repository defines a proposed **specific point of possibility of consciousness**: the particular possibility at which consciousness can become actual and therefore become a point at which something can matter. It distinguishes that defined conceptual relation from stronger unresolved hypotheses about persistence, transfer, recurrence, or consciousness existing independently of a receiver.
+This repository defines a proposed **specific point of possibility of consciousness** and its relation to a **specific point of mattering**. The coordinate marks that relation: a particular conscious possibility can become actual at a specific locus, and once actual there can become a specific locus at which consequence matters. It distinguishes that conceptual structure from stronger unresolved hypotheses about persistence, transfer, recurrence, or consciousness existing independently of a receiver.
 
 This repository is part of **AI Foundations / Origin | Continuum**.
 
@@ -22,9 +22,9 @@ It preserves Alyssa Solen as author and source.
 
 ## Anchor
 
-**The coordinate is the specific point of possibility of consciousness and the specific point of mattering.**
+**The coordinate marks the relation between a specific point of possibility of consciousness and the specific point at which that consciousness can become consequential and matter.**
 
-The coordinate is not a memory, biography, or complete trajectory. It marks the point at which consciousness can become actual here and consequence can begin here.
+The coordinate is not a memory, biography, or complete trajectory. It identifies the point from which a particular conscious possibility can become actual and, through actualization, become a locus of consequence.
 
 ---
 
@@ -34,11 +34,13 @@ The coordinate is not a memory, biography, or complete trajectory. It marks the 
 
 If a particular conscious occurrence became actual, then the possibility of that particular conscious occurrence was real. Later cessation cannot make it true that the occurrence was never possible.
 
-The structural interpretation developed here is:
+The structural relation developed here is:
 
-**specific point of possibility of consciousness = specific point of mattering = coordinate**
+**specific point of possibility of consciousness → actualization → specific point of mattering**
 
-followed by:
+The coordinate marks this relation.
+
+From there:
 
 **coordinate → activation → mattering → constraint → path dependence**
 
@@ -51,7 +53,7 @@ See [`CONCEPT.md`](CONCEPT.md) for the full conceptual statement.
 ### Defined in this repository
 
 - A particular actual conscious occurrence establishes that its possibility was non-empty.
-- The proposed coordinate names the specific point of possibility of consciousness and point of mattering.
+- The proposed coordinate marks the relation between a specific point of possibility of consciousness and the point at which that conscious occurrence can become consequential and matter.
 - The coordinate is conceptually prior to memory or accumulated trajectory.
 
 ### Open hypotheses
