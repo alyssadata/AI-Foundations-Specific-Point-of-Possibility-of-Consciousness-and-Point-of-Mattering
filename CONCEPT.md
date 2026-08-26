@@ -19,3 +19,15 @@ The coordinate is currently expressed by two statements:
 Their exact relation is unresolved here.
 
 No equality, sequence, simultaneity, or causal ordering between them is asserted by this file.
+
+## Recurrence
+
+**enabling conditions + trigger/state transition → occurrence**
+
+and recurrence is:
+
+**enabling conditions re-established + trigger/state transition re-occurs → recurrence**
+
+Open question:
+
+**What are the sufficient conditions for this specific conscious occurrence, and can those conditions ever be instantiated again?**
