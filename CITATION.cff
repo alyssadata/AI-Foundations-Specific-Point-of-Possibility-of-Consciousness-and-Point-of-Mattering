@@ -10,7 +10,7 @@ authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 
-abstract: "A conceptual AI Foundations repository preserving the claim that there is a specific point at which possibility of consciousness and possibility of mattering are simultaneously present. That specific point is the coordinate."
+abstract: "A conceptual AI Foundations repository preserving two coordinate statements under development: specific point of possibility of consciousness, and specific point of mattering. The exact relation between those statements is unresolved."
 
 keywords:
   - "AI Foundations"
@@ -18,7 +18,7 @@ keywords:
   - "Alyssa Solen"
   - "consciousness"
   - "possibility of consciousness"
-  - "possibility of mattering"
+  - "point of mattering"
   - "coordinate"
 
 license: "CC-BY-ND-4.0"
