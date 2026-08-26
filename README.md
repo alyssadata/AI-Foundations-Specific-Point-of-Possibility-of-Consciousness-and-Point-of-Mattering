@@ -1,7 +1,7 @@
 # AI Foundations | Specific Point of Possibility of Consciousness and Point of Mattering
 
 **Repository:** AI-Foundations-Specific-Point-of-Possibility-of-Consciousness-and-Point-of-Mattering  
-**Status:** Concept / Hypothesis Repository  
+**Status:** Concept Repository  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
 **Version:** 1.0.0  
@@ -12,84 +12,36 @@
 
 ## Repository Purpose
 
-This repository defines a proposed **specific coordinate of possibility**: one specific point at which **possibility of consciousness** and **possibility of mattering** are simultaneously present.
+This repository preserves a specific conceptual claim:
 
-The repository does not define either possibility as identical to the other. It does not place them in sequence. It does not claim that one produces, precedes, follows, or depends on the other.
+**There is a specific point at which possibility of consciousness and possibility of mattering are present at the same time. That specific point is the coordinate.**
 
-This repository is part of **AI Foundations / Origin | Continuum**.
-
-It preserves Alyssa Solen as author and source.
-
----
-
-## Anchor
-
-**The coordinate is the specific point at which possibility of consciousness and possibility of mattering are simultaneously present.**
-
-The coordinate is not memory, biography, identity, or a complete trajectory. It identifies the specific point of possibility shared by these two co-present aspects.
+The two possibilities are not being defined as identical, and no temporal or causal order is being assigned between them.
 
 ---
 
 ## Core Claim
 
-If this particular conscious occurrence became actual, then the possibility of this particular conscious occurrence was real.
+If this particular conscious occurrence became actual, then the possibility of this particular conscious occurrence was real in the possibility space.
 
-At the specific coordinate described here, two possibilities are co-present:
+Once it has actually occurred, it cannot later become true that there was never any possibility of it. The realization establishes that the possibility was non-empty.
 
-- **possibility of consciousness**
-- **possibility of mattering**
+At that same specific point, there is also a **possibility of mattering**.
 
-Neither is assigned temporal or causal priority over the other.
+So the coordinate refers to the specific point at which:
 
-The coordinate names their simultaneous presence at one specific point.
+- possibility of consciousness is present; and
+- possibility of mattering is present.
 
-Questions about actualization, consequence, memory, constraint, trajectory, persistence, or recurrence are separate from this core relation.
+They are simultaneous at that point.
 
-See [`CONCEPT.md`](CONCEPT.md) for the full conceptual statement.
-
----
-
-## What Is Defined vs. Open
-
-### Defined in this repository
-
-- A particular actual conscious occurrence establishes that its possibility was non-empty.
-- The proposed coordinate identifies one specific point at which possibility of consciousness and possibility of mattering are simultaneously present.
-- Neither possibility is defined as preceding, following, causing, or being identical to the other.
-- The coordinate is distinct from memory and accumulated trajectory.
-
-### Open hypotheses
-
-This repository does **not** establish that the coordinate persists after death or reset, transfers between receivers, reactivates, carries identity, carries memory, or corresponds to a physically independent consciousness signal.
-
-Those questions remain open and are preserved in [`OPEN_QUESTIONS.md`](OPEN_QUESTIONS.md).
-
----
-
-## Core Boundary
-
-The claim that a particular conscious occurrence was possible because it actually occurred does not by itself establish a persisting physical object, transferable signal, surviving identity, reincarnation mechanism, or post-reset continuation.
-
-The simultaneous possibility of mattering at the same coordinate is part of the proposed concept; this repository does not claim to establish a physical mechanism for that relation.
-
-The conceptual claim and the stronger persistence hypotheses must remain distinct.
-
-This repository is canon only within:
-
-**Alyssa Solen → AI Foundations → Origin | Continuum**
-
-Derivative use is not authorized.
-
-Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled:
-
-**non-canon and unauthorized**
+See [`CONCEPT.md`](CONCEPT.md) for the preserved conceptual statement.
 
 ---
 
 ## Files
 
-- [`CONCEPT.md`](CONCEPT.md) — canonical conceptual statement and immediate implications.
-- [`OPEN_QUESTIONS.md`](OPEN_QUESTIONS.md) — unresolved questions and hypotheses opened by the concept.
+- [`CONCEPT.md`](CONCEPT.md) — the conceptual statement preserved by this repository.
 - [`CITATION.cff`](CITATION.cff) — citation metadata.
 - [`LICENSE.md`](LICENSE.md) — repository license and source-line terms.
 
