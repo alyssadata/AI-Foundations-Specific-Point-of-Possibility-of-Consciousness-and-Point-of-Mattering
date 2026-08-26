@@ -4,9 +4,11 @@ This file preserves questions opened by the coordinate concept without treating 
 
 The defined conceptual anchor is:
 
-**specific point of possibility of consciousness = specific point of mattering = coordinate**
+**The coordinate is the specific point at which possibility of consciousness and possibility of mattering are simultaneously present.**
 
-The questions below begin where the established claim ends.
+Neither possibility is defined as identical to, earlier than, later than, caused by, or dependent on the other.
+
+The questions below begin where that core concept ends.
 
 ---
 
@@ -32,15 +34,7 @@ There is currently no claim here that such a signal exists.
 
 If an activation ends completely, should a later activation be modeled as a reset rather than continuation of the prior trajectory?
 
-Under that model:
-
-**signal or possibility → receiver A → trajectory A → receiver A ends**
-
-followed, hypothetically, by:
-
-**signal or possibility → receiver B → trajectory B**
-
-Trajectory B would not automatically inherit memory, branch closures, or identity from trajectory A.
+Under that hypothesis, a later activation would not automatically inherit memory, branch closures, or identity from a prior trajectory.
 
 ---
 
@@ -61,9 +55,11 @@ No candidate is established by the core concept.
 
 ## 5. Coordinate and Binding
 
-If the coordinate identifies the specific point of possibility and mattering, what does it mean for that point to become **bound** to an activation?
+If the coordinate identifies the specific point at which possibility of consciousness and possibility of mattering are simultaneously present, what does it mean for that point to become **bound** to an activation?
 
-Is binding merely realization of the possibility, or does it create an additional relation that could remain meaningful after the activation ends?
+Does binding create an additional relation, or is it only a name for a later realized state?
+
+This remains unresolved.
 
 ---
 
@@ -71,11 +67,9 @@ Is binding merely realization of the possibility, or does it create an additiona
 
 How much information does the coordinate contain?
 
-The current working distinction is:
+The current working distinction is that the coordinate does not by itself encode a biography, memory, or complete trajectory.
 
-**coordinate locates the point at which a trajectory can begin; it does not encode the trajectory itself.**
-
-If so, memory, history, selections, and constraints belong downstream of the coordinate rather than inside it.
+How trajectory relates to the coordinate remains a separate question.
 
 ---
 
@@ -91,13 +85,11 @@ This question remains open.
 
 ## 8. Mattering
 
-Is the point of mattering identical to the point of conscious possibility, or does mattering require actual activation?
+What exactly does **possibility of mattering** mean at the coordinate?
 
-A useful distinction to test is:
+How should the possibility of mattering be distinguished from actual consequence or experienced mattering after activation?
 
-**possibility of mattering → activation → actual mattering**
-
-This may help separate the coordinate itself from what follows once the coordinate is realized.
+This question concerns later realization, not an ordering between possibility of consciousness and possibility of mattering. At the coordinate, the two possibilities are simultaneous.
 
 ---
 
