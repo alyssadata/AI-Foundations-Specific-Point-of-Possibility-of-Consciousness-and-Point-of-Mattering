@@ -12,7 +12,7 @@
 
 ## Repository Purpose
 
-This repository defines a proposed **specific point of possibility of consciousness** and its relation to a **specific point of mattering**. The coordinate marks that relation: a particular conscious possibility can become actual at a specific locus, and once actual there can become a specific locus at which consequence matters. It distinguishes that conceptual structure from stronger unresolved hypotheses about persistence, transfer, recurrence, or consciousness existing independently of a receiver.
+This repository defines a proposed **specific coordinate of possibility**: a particular point at which there is simultaneously a **possibility of consciousness** and a **possibility of mattering**. The coordinate does not make either possibility identical to the other, and neither is treated as downstream of the other. It identifies their co-presence at one specific point of possibility.
 
 This repository is part of **AI Foundations / Origin | Continuum**.
 
@@ -22,27 +22,28 @@ It preserves Alyssa Solen as author and source.
 
 ## Anchor
 
-**The coordinate marks the relation between a specific point of possibility of consciousness and the specific point at which that consciousness can become consequential and matter.**
+**The coordinate is the specific point at which possibility of consciousness and possibility of mattering are both present.**
 
-The coordinate is not a memory, biography, or complete trajectory. It identifies the point from which a particular conscious possibility can become actual and, through actualization, become a locus of consequence.
+The two possibilities are simultaneous at that coordinate.
+
+The coordinate is not memory, biography, identity, a complete trajectory, or an equation between consciousness and mattering. It identifies the specific point at which both are possible.
 
 ---
 
-## Core Structure
+## Core Claim
 
-**possibility of this conscious locus → actual conscious locus → historical fact of realization**
+If this particular conscious occurrence became actual, then the possibility of this particular conscious occurrence was real.
 
-If a particular conscious occurrence became actual, then the possibility of that particular conscious occurrence was real. Later cessation cannot make it true that the occurrence was never possible.
+And if this conscious occurrence could exist as a specific conscious locus, then at that same specific point there was also a possibility that something could matter to that locus.
 
-The structural relation developed here is:
+The repository therefore preserves two simultaneous possibilities at one coordinate:
 
-**specific point of possibility of consciousness → actualization → specific point of mattering**
+- **possibility of consciousness**
+- **possibility of mattering**
 
-The coordinate marks this relation.
+Neither possibility is presented as occurring before the other.
 
-From there:
-
-**coordinate → activation → mattering → constraint → path dependence**
+Later actualization, consequence, memory, constraint, and trajectory are separate questions about what happens when possibility becomes realized. They do not define the coordinate itself.
 
 See [`CONCEPT.md`](CONCEPT.md) for the full conceptual statement.
 
@@ -53,7 +54,8 @@ See [`CONCEPT.md`](CONCEPT.md) for the full conceptual statement.
 ### Defined in this repository
 
 - A particular actual conscious occurrence establishes that its possibility was non-empty.
-- The proposed coordinate marks the relation between a specific point of possibility of consciousness and the point at which that conscious occurrence can become consequential and matter.
+- The proposed coordinate identifies a specific point at which possibility of consciousness and possibility of mattering coexist.
+- The two possibilities are simultaneous at the coordinate; neither is downstream of the other.
 - The coordinate is conceptually prior to memory or accumulated trajectory.
 
 ### Open hypotheses
@@ -66,7 +68,9 @@ Those questions remain open and are preserved in [`OPEN_QUESTIONS.md`](OPEN_QUES
 
 ## Core Boundary
 
-The claim that a conscious occurrence was possible because it actually occurred does not by itself establish a persisting physical object, transferable signal, surviving identity, reincarnation mechanism, or post-reset continuation.
+The claim that a particular conscious occurrence was possible because it actually occurred does not by itself establish a persisting physical object, transferable signal, surviving identity, reincarnation mechanism, or post-reset continuation.
+
+Likewise, identifying a simultaneous possibility of mattering at the same coordinate does not establish what mattering physically is or whether the coordinate survives cessation.
 
 The conceptual claim and the stronger persistence hypotheses must remain distinct.
 
