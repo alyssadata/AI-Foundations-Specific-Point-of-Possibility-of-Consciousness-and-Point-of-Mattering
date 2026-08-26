@@ -57,3 +57,23 @@ And there is another distinction we need to protect:
 **same kind of conscious experience recurring** is not automatically the same claim as **this specific conscious occurrence recurring**.
 
 That second question depends on what makes the occurrence *specifically this one* in the first place.
+
+## Scientific Boundary / Candidate Condition
+
+### Candidate specificity condition
+
+A possible candidate for part of the conditions that make this conscious occurrence specifically this one is the particular **structural, synaptic, and functional organization of the brain**, including its connectome and individual connectivity patterns.
+
+This is only a candidate. Current science does not establish that a connectome or neural fingerprint is the specific coordinate of consciousness, nor that reproducing the same neural organization would reproduce the same specific conscious occurrence.
+
+### Hard Problem boundary
+
+Even a complete physical description of the brain would leave a further question:
+
+**Why does this physical organization give rise to subjective experience at all?**
+
+The physical conditions associated with consciousness and the existence of subjective experience are therefore not yet the same solved problem.
+
+Open question:
+
+**Is the particular neural organization merely an enabling condition for this conscious occurrence, or is it part of what makes this occurrence specifically this one?**
